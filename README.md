@@ -24,7 +24,7 @@
 
 ---
 
-### - Languages and Tools...
+### - Linguagens e Ferramentas...
 
 <p align="center">
 
