@@ -57,9 +57,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thalles-ian-ba6315181/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://www.instagram.com/thallesyam/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://api.whatsapp.com/send?phone=5511947279732&text=Ol%C3%A1%20Thalles%2C%20vi%20o%20seu%20perfil%20no%20Github"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/whatsapp.svg" width="30px" alt="Whatsapp"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/thalles-ian-ba6315181/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/linkedin.svg" width="50px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://www.instagram.com/thallesyam/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/instagram.svg" width="50px" alt="Instagram"></a> &nbsp; &nbsp;
+  <a href="https://api.whatsapp.com/send?phone=5511947279732&text=Ol%C3%A1%20Thalles%2C%20vi%20o%20seu%20perfil%20no%20Github"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/whatsapp.svg" width="50px" alt="Whatsapp"></a> &nbsp; &nbsp;
 </p>
 
 <p align="center">
