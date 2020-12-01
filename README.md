@@ -70,5 +70,5 @@
 <br>
 
 <p align="center">
-  Feito com 💙 usando GitHub Markdown ⬇️
+  Feito com 💙
 </p>
