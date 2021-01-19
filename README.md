@@ -9,4 +9,4 @@ TypeScript <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> ,  React Js <
 
 
 Estou estudando atualmente:  
-GraphQL <img src="https://i.ibb.co/2nrNSzf/graphql.png" width="20"/>, Next JS <img src="https://i.ibb.co/94FbdYY/Getting-Started-with-Next-JS.jpg" alt="Getting-Started-with-Next-JS" border="0"> e testes automatizados <img src="https://i.ibb.co/dMz2Dph/jest.png" alt="jest" border="0">
+GraphQL <img src="https://i.ibb.co/2nrNSzf/graphql.png" width="20"/>, Next JS e Testes automatizados.
