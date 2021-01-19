@@ -1,19 +1,74 @@
-###  👨🏻‍💻 Um pouco sobre mim 
+<p align="center">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <br><br>
+  <samp>
+    Olá eu sou o Thalles :wave:
+    <br><br>
+    Eu trabalho como estagiário Frontend :globe_with_meridians:!
+    <br><br>
+    Estou cursando o terceiro semestre de ciência da computação!
+    <br><br>
+    O.B.S. E eu sei que HTMl não é uma linguagem de programação ! :v:😂
+  </samp>
+</p>
 
-Olá Pessoal 👋🏻
-Sou o Thalles Ian, Desenvolvedor Frontend, trabalho com React e Node, e sou um entusiasta de todo o mundo Javascript
+<br>
 
-Minhas ferramentas Favoritas:  
-TypeScript <img src="https://camo.githubusercontent.com/b172115921440aaf2a2ddf79b5d0c9563c2e260fdf7857077b5704a3f97e6b89/68747470733a2f2f692e6962622e636f2f505a32585a67722f74732e706e67" alt="Typescript" style="vertical-align:top; margin:4px">,  
-React Js <img src="https://camo.githubusercontent.com/1642c5f39b7f167c07f8eae813d365681abb121bd264d310cfa5ac6b1c438691/68747470733a2f2f692e6962622e636f2f3452484d6d4c512f72656163742e706e67" alt="React" style="vertical-align:top; margin:4px">,  
-Node Js <img src="https://camo.githubusercontent.com/5f199ce2d9e9cf6aed9696cda96b3de0dfa8900c165104a51e886289e12c4789/68747470733a2f2f692e6962622e636f2f7656786d794e322f6e6f64652e706e67" alt="Node" style="vertical-align:top; margin:4px">
-
-
-
-Estou estudando atualmente:  
-GraphQL <img src="https://camo.githubusercontent.com/28dcc8b34cb474a3015b0141bdc1bdf569173d923e694dce79844a454f62a9c2/68747470733a2f2f692e6962622e636f2f326e724e537a662f6772617068716c2e706e67" alt="GraphQL" style="vertical-align:top; margin:4px">, 
-Next JS e 
-testes automatizados.
+<details>
+  <summary> <b> Algumas coisas sobre mim! </b> <i>(click para abrir!)</i> </summary>
+  
+  <br>
+  
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thallesyam&?hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
+---
 
+### - Linguagens e Ferramentas...
+
+<p align="center">
+
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20angular.svg" alt="angular" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:4px"> 
+
+---
+
+</p>
+
+### - Estou atualmente...
+
+- Aprendendo Next JS.
+- Estudando sobre React + Redux.
+- Adicionando Node JS as minhas skills.
+- Estudando um pouco mais sobre Angular.
+
+---
+
+</details>
+
+<p align="center"> 
+  <i> Como se conectar comigo: </i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thalles-ian-ba6315181/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/linkedin.svg" width="100px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://www.instagram.com/thallesyam/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/instagram.svg" width="100px" alt="Instagram"></a> &nbsp; &nbsp;
+  <a href="https://api.whatsapp.com/send?phone=5511947279732&text=Ol%C3%A1%20Thalles%2C%20vi%20o%20seu%20perfil%20no%20Github"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/whatsapp.svg" width="100px" alt="Whatsapp"></a> &nbsp; &nbsp;
+</p>
+
+<p align="center">
+  <i> :sparkles: </i>
+</p>
+
+<br>
+
+<p align="center">
+  Feito com 💙
+</p>
