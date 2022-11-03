@@ -1,4 +1,6 @@
-Hi, how are you? I'm Thalles, from São Paulo who lives in RJ. married, mother of Aurora. I'm a tech recruiter who decided to become a developer. Since 2021 studying web development.
+Hello, how are you? I'm Thalles, I'm a student of information systems and I currently live in São Paulo. I currently work with frontend and I'm passionate about building innovative and useful solutions for users and an enthusiast of the principles of software architecture and design.
+Currently my focus of study is related to topics like Clean Archtecture, TDD, DDD... 🏴‍☠️
+
 
 ## More about me
 
