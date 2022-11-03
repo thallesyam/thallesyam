@@ -32,7 +32,6 @@ class Skills extends Developer {
 <p align="left">
 <a href="https://www.linkedin.com/in/thalles-ian/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href="mailto:thallesyam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://discord.com/channels/@me/1037740164832841898" target="_blank"><img src="https://img.shields.io/badge/-Discord-%230077B5?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </p>  
 
 ## **Languages and Tools:**  
