@@ -76,8 +76,7 @@ class Skills extends Developer {
 
 <div>
   <a href="https://github.com/thallesyam">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallesyam&layout=compact&langs_count=7&theme=merko"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thallesyam&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/> 
+ <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thallesyam&theme=react&line_height=40&hide=css"/> </a>
 </div>
 
   <div style="display: inline_block"><br>
