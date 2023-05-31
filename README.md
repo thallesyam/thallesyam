@@ -74,12 +74,7 @@ class Skills extends Developer {
 
 ## 
 
-<div>
-  <a href="https://github.com/thallesyam">
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thallesyam&theme=react&line_height=40&hide=css"/> </a>
-</div>
-
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   
     
 ![Snake animation](https://github.com/thallesyam/thallesyam/blob/output/github-contribution-grid-snake.svg)
