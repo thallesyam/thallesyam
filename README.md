@@ -72,11 +72,6 @@ class Skills extends Developer {
       <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/prisma.svg" alt="Prisma" width="25" height="25" />
    </a> 
 
-## 
-
-<div style="display: inline_block"><br>
-  
-    
 ![Snake animation](https://github.com/thallesyam/thallesyam/blob/output/github-contribution-grid-snake.svg)
     
 </div> 
