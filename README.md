@@ -4,8 +4,6 @@ Currently my focus of study is related to topics like Clean Architecture, TDD, D
 
 ## More about me
 
-<img align="right" width="300" src="giphy.gif" />
-
 ```js
 import Developer from 'Thalles Ian';
 
@@ -36,24 +34,43 @@ class Skills extends Developer {
 
 ## **Languages and Tools:**  
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-<div>
-<img src="https://komarev.com/ghpvc/?username=thallesyam&color=green">
-</div>
+   
+   <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener">
+      <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" />
+   </a> 
+   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener">
+      <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" />
+   </a>  
+   <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener">
+      <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a> 
+   <a href="https://css3.com" target="_blank" rel="noreferrer noopener">
+      <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a> 
+   <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener">
+      <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a> 
+   <a href="https://nextjs.org" target="_blank" rel="noreferrer noopener">
+      <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/nextjs.svg" alt="NextJS" width="25" height="25" /></a> 
+   <a href="http://tailwindcss.com" target="_blank" rel="noreferrer noopener">
+      <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/tailwind.svg" alt="Tailwind" width="25" height="25" /></a> 
+   <a href="https://redux.js.org" target="_blank" rel="noreferrer noopener">
+      <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/redux.svg" alt="Redux" width="25" height="25" /></a> 
+   <a href="http://vitejs.dev/" target="_blank" rel="noreferrer noopener">
+      <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/vite.svg" alt="Vite" width="25" height="25" />
+   </a>  
+   <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener">
+      <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="25" height="25" />
+   </a> 
+   <a href="http://expressjs.com" target="_blank" rel="noreferrer noopener">
+      <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/express.svg" alt="Express" width="25" height="25" />
+   </a> 
+   <a href="https://graphql.org" target="_blank" rel="noreferrer noopener">
+      <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/graphql.svg" alt="GraphQL" width="25" height="25" />
+   </a> 
+   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener">
+      <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="25" height="25" />
+   </a> 
+   <a href="http://prisma.io" target="_blank" rel="noreferrer noopener">
+      <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/prisma.svg" alt="Prisma" width="25" height="25" />
+   </a> 
 
 ## 
 
